@@ -8,4 +8,5 @@ The project also focuses on exploring the Machine Learning and Deep Learning Alg
 
 The time-series models like Exponential Smoothing and LSTM showed the capability of identifying the trend in data to some extent and even made predictions on unseen data. Using the high compute systems and more data can help improve the models’ performance and the results can be used to proactively take actions. 
 
-#### Project Details: [Visit Website](https://storymaps.arcgis.com/stories/ad2c1fc5cc6c4e17a6f039578ca2afb2) 
+#### Project Details: 
+[Visit Website](https://storymaps.arcgis.com/stories/ad2c1fc5cc6c4e17a6f039578ca2afb2) 
